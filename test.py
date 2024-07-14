@@ -1,8 +1,5 @@
 
 
-print("first commit")
-a=["1","2","3"]
-a.append("A")
-print(a[2:])
+import numpy as np
 
-
+a=np.ones((3,3))
